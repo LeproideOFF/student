@@ -9,3 +9,8 @@ ce logiciel a été crée grace a python et chatGPT.
 ce logiciel sert a avoir un access facile a ces cours.
 comment ca marche : au premier demmarage, le logiciel crée un dossier nommé cours avec dedans les fichiers : francais, anglais, espagnol, histoire, math, physique_chimie, svt, technologie. ensuite une interfance avec les nom des differentes matieres et si ont clique sur une de ces matiere, une nouvelle page va s'ouvrire avec le contenue de fichier, l'interface se presente avec le nom du fichier et le bouton ouvrire. quand ont appuie sur ouvrir, le logiciel assigner avec le type de fichier va s'ouvrir
 (https://github.com/LeproideOFF/student/assets/96480462/f0455d64-63ca-4e5d-ac9a-078fbc54b83d)
+
+V 1.01
+we can temporary add a picture undet the button by using "ouvrir une image"
+
+on peut ajouter temporairement une image sous le bouton en utilisant "ouvrir une image"
